@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "minimumContacts": 2,
+  "deadZoneDegrees": 2.0,
+  "degreesPerAction": 5.0,
+  "profiles": [
+    {
+      "processName": "example-image-editor.exe",
+      "action": "rotate-clockwise",
+      "counterAction": "rotate-counterclockwise"
+    }
+  ]
+}
